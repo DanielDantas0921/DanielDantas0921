@@ -1,4 +1,4 @@
-Ola! Meu nome é Daniel Dantas. Eu sou desenvolvedor front-end mas estou estudando o python no backend para me tornar fullstack. Sou de João Pessoa da Paraíba, Brazil. Tenho experiência na web desde 2023.1, porém vim realmente praticar agora no ano de 2024.2 em um estágio não remunerado. Faço faculdade de ciência da computação e estou no 4 período com previsão de conclusão em 2024.2.
+Ola! Meu nome é Daniel Dantas. Eu sou desenvolvedor front-end mas estou estudando o python no backend para me tornar fullstack. Sou de João Pessoa da Paraíba, Brazil. Tenho experiência na web desde 2023.1, porém vim realmente praticar agora no ano de 2024.2 em um estágio não remunerado. Faço faculdade de ciência da computação e estou no 4 período com previsão de conclusão em 2026.2.
 
 Currículo
 
