@@ -20,17 +20,17 @@ Proficient (Requires Review or Deepening)
 
 Esta categoria abrange habilidades com as quais trabalhei extensivamente no passado, mas que podem exigir um tempo para revisar e me atualizar sobre as práticas e técnicas mais recentes para trabalhar de forma eficaz com elas novamente. Além disso, inclui tecnologias com as quais estou trabalhando atualmente, mas ainda preciso adquirir a profundidade de conhecimento para me considerar um especialista. Estou ativamente aprendendo e melhorando nessas áreas para expandir meu conjunto de habilidades.
 
-    Html, Css, Javascript
+    Html, Css, Javascript, Bootstrap , django-template
 
 Familiar (Requires Practice)
 
 Eu estou familiarizado e tenho algum grau de experiência com essas habilidades, mas precisaria de um tempo para praticar e aprofundar minha proficiência antes de poder trabalhar de forma eficaz com elas.
     
-  React
+  React, python, django
 
 Learner (Requires Learning)
 
-Python utilizando o framework Django.
+python, django
 
 🛠️ Experience, Projects and Education
 
